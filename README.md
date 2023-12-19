@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shweta</h1>
+<h1 align="center">Hi </h1>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=me-shweta&show_icons=true&locale=en&layout=compact" alt="me-shweta" /></p>
