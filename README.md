@@ -1,7 +1,7 @@
-<h1 align="center">Hi! I'm Shweta Meena</h1> 
+<h1 align="center">Hi! I'm Shweta</h1> 
 <b>Undergraduate Design Enthusiast</b>
 <p align="justify">
-  I'm a second year undergrad at <a href="https://cic.du.ac.in/"> Cluster Innovation Centre, DU</a>. My interests in the field of tech includes AI/ML, Cyber Security and Web Development. </p>
+  I'm a second year undergrad at <a href="https://cic.du.ac.in/"> Cluster Innovation Centre, DU</a>. </p>
 
 <p>
    <h3>📫 Reach me at: </h3> 
